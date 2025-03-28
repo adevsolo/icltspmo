@@ -1,12 +1,8 @@
-# Ludicrous
-The Ludicrous Web Proxy Site: Fast, Simple, Small. The flagship site of Ludicrous
-
-<img src="https://github.com/TitaniumNetwork-dev/Ludicrous/blob/main/example.jpeg?raw=true">
-
-## Installation
+# Solo Central V5
+The Solo Central Web Proxy Site: Fast, Simple, Small. The flagship site of Solo Central
 
 ```bash
-git clone https://github.com/TitaniumNetwork-dev/Ludicrous
+git clone https://github.com/adevsolo/icltspmo
 
 cd Ludicrous
 
